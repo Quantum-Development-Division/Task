@@ -9,3 +9,6 @@
 ・merge
 ・pull request
 ・delete
+
+
+変更しました。
