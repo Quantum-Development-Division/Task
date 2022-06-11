@@ -1,0 +1,11 @@
+・clone
+ローカル
+・branch
+・checkout
+・pull
+・fetch
+・commit
+・push
+・merge
+・pull request
+・delete
